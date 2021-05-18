@@ -28,7 +28,7 @@
              
                 var menu = '<li><a href="/Dashboard/FormList/">FormList</a></li>';
                     $.each(result, function (key, value) {
-                        //menu += '<li><a href="/Dashboard/Dashboard/' + value.id + '">' + value.FormName +'</a></li>';
+                        menu += '<li><a href="/Dashboard/DisplayForm/' + value.id + '">Form #' + value.id +'</a></li>';
                 });
                 $("#menu").html(menu);
             }
