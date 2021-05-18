@@ -1,0 +1,64 @@
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.AssemblyInfoInputs.cache
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.AssemblyInfo.cs
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.csproj.CoreCompileInputs.cache
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.RazorAssemblyInfo.cache
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.RazorAssemblyInfo.cs
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/bin/Debug/netcoreapp2.2/global.json
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/bin/Debug/netcoreapp2.2/DynamicFormBuilder.deps.json
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/bin/Debug/netcoreapp2.2/DynamicFormBuilder.runtimeconfig.json
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/bin/Debug/netcoreapp2.2/DynamicFormBuilder.runtimeconfig.dev.json
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/bin/Debug/netcoreapp2.2/DynamicFormBuilder.dll
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/bin/Debug/netcoreapp2.2/DynamicFormBuilder.pdb
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/bin/Debug/netcoreapp2.2/DynamicFormBuilder.Views.dll
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/bin/Debug/netcoreapp2.2/DynamicFormBuilder.Views.pdb
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.TagHelpers.input.cache
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.TagHelpers.output.cache
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.RazorCoreGenerate.cache
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/Razor/Views/Dashboard/Index.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/Razor/Views/Dashboard/Templates/FormList.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/Razor/Views/Dashboard/Templates/TemplateList.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_MainMenu.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.RazorTargetAssemblyInfo.cache
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.RazorTargetAssemblyInfo.cs
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.Views.pdb
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.dll
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.pdb
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.genruntimeconfig.cache
+/Users/RajanRe/Desktop/projects/Dynamic-User-Defined-Dashboards-Asp-Net-Core-master copy/obj/Debug/netcoreapp2.2/DynamicFormBuilder.csproj.CopyComplete
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/bin/Debug/netcoreapp2.2/global.json
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/bin/Debug/netcoreapp2.2/DynamicFormBuilder.deps.json
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/bin/Debug/netcoreapp2.2/DynamicFormBuilder.runtimeconfig.json
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/bin/Debug/netcoreapp2.2/DynamicFormBuilder.runtimeconfig.dev.json
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/bin/Debug/netcoreapp2.2/DynamicFormBuilder.dll
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/bin/Debug/netcoreapp2.2/DynamicFormBuilder.pdb
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/bin/Debug/netcoreapp2.2/DynamicFormBuilder.Views.dll
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/bin/Debug/netcoreapp2.2/DynamicFormBuilder.Views.pdb
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.AssemblyInfoInputs.cache
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.AssemblyInfo.cs
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.csproj.CoreCompileInputs.cache
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.RazorAssemblyInfo.cache
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.RazorAssemblyInfo.cs
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.TagHelpers.input.cache
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.TagHelpers.output.cache
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.RazorCoreGenerate.cache
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/Razor/Views/Dashboard/Index.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/Razor/Views/Dashboard/Templates/FormList.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/Razor/Views/Dashboard/Templates/TemplateList.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_MainMenu.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.RazorTargetAssemblyInfo.cache
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.RazorTargetAssemblyInfo.cs
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.Views.pdb
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.dll
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.pdb
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.genruntimeconfig.cache
+/Users/RajanRe/Desktop/projects/Dynamic-Form-Builder/obj/Debug/netcoreapp2.2/DynamicFormBuilder.csproj.CopyComplete

@@ -1,0 +1,58 @@
+@{
+    ViewBag.Title = "Dashboard's Template Selection";
+}
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <h1>
+        Dynamic Form Creation
+    </h1>
+</section>
+<div class="setDataWrap">
+    <button id="getXML" type="button">Save Form</button>
+</div>
+<div id="build-wrap"></div>
+
+<form id="fb-render"></form>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script src="https://formbuilder.online/assets/js/form-builder.min.js"></script>
+<script>
+    jQuery(function ($) {
+        var fbEditor = document.getElementById('build-wrap');
+        var formBuilder = $(fbEditor).formBuilder();
+        var dt = new Date();
+
+        document.getElementById('getXML').addEventListener('click', function () {
+        var savedFormData = formBuilder.actions.getData('xml');
+     
+        $.ajax(
+        {
+            type: "POST",
+            url: '@Url.Action("SaveFormData", "Dashboard")',
+            data: {
+                FormName: localStorage.getItem("form_name"),
+                FormData: savedFormData,
+                CreatedData: dt
+            },
+            error: function (result) {
+                alert("error saveform");
+            },
+                success: function (result) {
+ 
+
+                if (result != "False") {
+                    window.location = "/Dashboard/TemplateList/";
+                }
+                else {
+                    alert("There is a Problem in saving Form Data!");
+                }
+            }
+        });
+
+
+        });
+    });
+
+</script>
+

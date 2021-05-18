@@ -1,0 +1,26 @@
+@{
+    ViewBag.Title = "Dashboard's Template Selection";
+}
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <h1>
+        Dynamic Form Listings
+    </h1>
+</section>
+
+<div id="build-wrap"></div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script src="https://formbuilder.online/assets/js/form-builder.min.js"></script>
+
+<script>jQuery(function($) {
+  var fbTemplate = document.getElementById('build-wrap'),
+      options = {
+        dataType: 'xml',
+          formData: '<form-template xmlns="http://www.w3.org/1999/xhtml"><fields><field type="button" label="Button" subtype="button" class-name="btn-default btn" name="button-1621259494402" access="false" style="default"></field><field type="file" required="false" label="File Upload" class-name="form-control" name="file-1621259495366" access="false" subtype="file" multiple="false"></field><field type="header" subtype="h1" label="Header" access="false"></field><field type="number" required="false" label="Number" class-name="form-control" name="number-1621259497791" access="false" value="1"></field><field type="text" required="false" label="Text Field" class-name="form-control" name="text-1621259501222" access="false" value="ZZZ" subtype="text"></field><field type="textarea" required="false" label="Text Area" class-name="form-control" name="textarea-1621259505167" access="false" value="≈zxzxzzxzxzxzxzxzx" subtype="textarea"></field></fields></form-template>'
+      };
+  $(fbTemplate).formBuilder(options);
+});</script>
